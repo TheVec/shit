@@ -22,7 +22,8 @@
   --red-bg: linear-gradient(90deg, rgba(243, 30, 38, 1) 0%, rgba(251, 64, 64, 1) 100%);
   --red-bg-alt: #F42028;
 
-  --background-primary: #101014;
+  /*--background-primary: #101014;*/
+  --background-primary: #ffffff;
   --background-secondary: #17161B;
   --background-secondary-alt: #1E1D24;
   --background-tertiary: #101014;
