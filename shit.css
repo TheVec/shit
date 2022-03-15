@@ -142,12 +142,12 @@
   /* Codeblocks */
   --font-code: "JetBrainsMono", "Fira Code", "Source Sans Pro", sans-serif;
 
-  --blurple-replace: #f42313;
-  --brand-experiment: #f42313;
-  --brand-experiment-hover: #f42313cc;
+  --blurple-replace: #de2a1c;
+  --brand-experiment: #de2a1c;
+  --brand-experiment-hover: #de2a1ccc;
 
-  --blurple-bg: #f42313;
-  --blurple-bg-alt: #f42313;
+  --blurple-bg: #de2a1c;
+  --blurple-bg-alt: #de2a1c;
 
   --red-bg: linear-gradient(90deg, rgba(243, 30, 38, 1) 0%, rgba(251, 64, 64, 1) 100%);
   --red-bg-alt: #F42028;
