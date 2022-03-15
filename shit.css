@@ -263,6 +263,21 @@ code {
     -webkit-box-shadow: none !important;
 }
 
+.compact-2Nkcau .timestamp-p1Df1m, .cozy-VmLDNB .timestamp-p1Df1m.alt-1dvXnH {
+    text-align: right;
+    font-size: 0.6875rem;
+    line-height: 1.375rem;
+    margin-right: .25rem;
+    color: var(--text-muted);
+    text-indent: 0;
+    position: absolute;
+    right: 0;
+}
+
+.timestamp-p1Df1m.latin12CompactTimeStamp-2G5XJd {
+    width: auto;
+}
+
 .container-YkUktl:last-child .flex-2S1XBF> button:last-child {
     color: #f15a4e !important;
 }
