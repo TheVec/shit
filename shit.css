@@ -9,10 +9,10 @@
  * @invite B9TK7nqRE4
 */
 
-@import url("https://cdn.jsdelivr.net/gh/TheVec/shit/lavender.css");
+@import "https://lavender-discord.github.io/Lavender/lavender.css";
 
 /* Skins — Basically all variables of the theme / I plan to add different variable files each with different color scheme 🤷‍ */
-@import url("https://cdn.jsdelivr.net/gh/TheVec/shit/default.css");
+@import "https://lavender-discord.github.io/Lavender/src/skins/default.css";
 
 /* Addons — External Imports and/or my personal modifications of them*/
 @import "https://lavender-discord.github.io/Lavender/addons/context-icons.css";
