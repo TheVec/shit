@@ -134,6 +134,16 @@
             padding: 0px 7px 0px 7px;
             margin-right: 6px;
 }
+/* FrediSK */
+[data-author-id='610131060394819584'] .header-2jRmjb .username-h_Y3Us::before,
+[data-user-id="610131060394819584"] + .header-1dhDWV::before,
+[data-user-id="610131060394819584"] + .text-3j8t_e .username-3JLfHz::before,
+[data-user-id="610131060394819584"] + .listName-PwbeHL .username-3JLfHz::before {
+	content: "";
+            background: url("https://i.imgur.com/zl9JGBs.png") center/100% no-repeat;
+            padding: 0px 7px 0px 7px;
+            margin-right: 6px;
+}
 /* Small user popout - Added lavender icon next to my name */
 [aria-label="Obscure."].userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq .nameTag-H6kSJ0 .username-3JLfHz::before {
 	content: "";
